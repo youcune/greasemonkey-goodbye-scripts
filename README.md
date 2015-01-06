@@ -1,4 +1,4 @@
-# Greasemonkey User Scripts
+# Greasemonkey Goodbye Scripts
 
 ## goodbye-gunosy.user.js
 
